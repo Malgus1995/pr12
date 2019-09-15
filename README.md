@@ -12,14 +12,14 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 *Last Updated: 2019/09/15*
 
 ## Table of Contents
-- [Papers by Topic](https://github.com/taeoh-kim/pr12/blob/master/README.md#papers-by-topic)
-- [PR12 Presenter](https://github.com/taeoh-kim/pr12/blob/master/README.md#presenter)
-- [Paper Statistics](https://github.com/taeoh-kim/pr12/blob/master/README.md#paper-statistics)
+- [Papers by Topic](https://github.com/taeoh-kim/pr12#papers-by-topic)
+- [PR12 Presenter](https://github.com/taeoh-kim/pr12#presenter)
+- [Paper Statistics](https://github.com/taeoh-kim/pr12#paper-statistics)
 - Presentations
-  - [PR-001 ~ PR-050](https://github.com/taeoh-kim/pr12/blob/master/README.md#pr-001-~-pr-050)
-  - [PR-051 ~ PR-100](https://github.com/taeoh-kim/pr12/blob/master/README.md#pr-051-~-pr-100)
-  - [PR-101 ~ PR-150](https://github.com/taeoh-kim/pr12/blob/master/README.md#pr-101-~-pr-150)
-  - [PR-151 ~ PR-200](https://github.com/taeoh-kim/pr12/blob/master/README.md#pr-151-~-pr-200)
+  - [PR-001 ~ PR-050](https://github.com/taeoh-kim/pr12#pr-001--pr-050)
+  - [PR-051 ~ PR-100](https://github.com/taeoh-kim/pr12#pr-051--pr-100)
+  - [PR-101 ~ PR-150](https://github.com/taeoh-kim/pr12#pr-101--pr-150)
+  - [PR-151 ~ PR-200](https://github.com/taeoh-kim/pr12#pr-151--pr-200)
 
 
 ## Papers by Topic

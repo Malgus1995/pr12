@@ -9,7 +9,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 - [Video Playlist Season 1 (PR-001 ~ PR-100)](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
 - [Video Playlist Season 2 (PR-101 ~ PR-200)](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
 
-*Last Updated: 2019/09/15*
+*Last Updated: 2019/09/20*
 
 ## Table of Contents
 - [Papers by Topic](https://github.com/taeoh-kim/pr12#papers-by-topic)
@@ -23,6 +23,8 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 
 ## Papers by Topic
+
+### Up to PR-193
 
 | Title                           | PR-001-to-100                       | PR-101-to-200                       |
 |:--------------------------------|:------------------------------------|:------------------------------------|

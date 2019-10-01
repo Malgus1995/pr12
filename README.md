@@ -24,7 +24,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 ## Papers by Topic
 
-### Up to PR-193
+### Up to PR-197
 
 | Title                           | PR-001-to-100                       | PR-101-to-200                       |
 |:--------------------------------|:------------------------------------|:------------------------------------|
@@ -32,7 +32,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | CNN                       | 002 011 020 028 034 083   | 123 155 163 169 170 177 |
 | RNN                       | 003 014 058 068     |   |
 | Neural Networks           | 043               | 138 174|
-| Network Compression           | 009 026 033 044 054 072 078          | 105 108 111 120 144 156 180 183 184 187 193 |
+| Network Compression           | 009 026 033 044 054 072 078          | 105 108 111 120 144 156 180 183 184 187 193 194 197 |
 | Hardware                  | 085       | 111  |
 | Visualization               | 047 053              |   |
 | Memory Networks               | 006 036              |   |
@@ -44,8 +44,8 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | Autoregressive Models     | 024 040 068         |               |
 | Normalizing Flow Models     |             | 116                     |
 | **Computer Vision**           |                                     |                                     |
-| Classification            | 020 021 026 028 034 044 054 083 090 | 108 119 120 123 156 163 169 170 171 183 |
-| Detection                 | 002 012 016 023 025 033 044 054 057 084 | 108 110 132 146 157 158 166 172 185 |
+| Classification            | 020 021 026 028 034 044 054 083 090 | 108 119 120 123 156 163 169 170 171 183 196 |
+| Detection                 | 002 012 016 023 025 033 044 054 057 084 | 108 110 132 146 157 158 166 172 185 196 |
 | Segmentation              |  008 045 057 100      | 123 126 141 159 |
 | Human/Body/Face                      | 014               | 102 126 127 135 165 171 185 |
 | 3D Single-View        |  098                       |   |
@@ -80,7 +80,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | Transfer Learning         | 009 026 078 096            | 160 181 |
 | Domain Adaptation         | 013               | 159  |
 | Optimization              | 031 042 066 071 075 086      | 134  |
-| Attention                 | 011 049 055 083         | 161 163 179 |
+| Attention                 | 011 049 055 083         | 161 163 179 196 |
 | Explainable AI            |  035 047 053 089           | 106 140 167 181 |
 | Few/One/Zero Shot         |  036              | 165 168 |
 | Bayesian/Uncertainty      |  039 080 088           |   |
@@ -89,11 +89,11 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | Dimension Reduction                     |                | 112 124  |
 | Data Visualization                     |                | 103  |
 | Weakly-supervised Learning           | 047 053              |   |
-| Semi-supervised Learning           |              | 178 189 |
+| Semi-supervised Learning           |              | 178 189 195 |
 | Self-supervised Learning            | 090            | 124 136 162 |
 | Anomaly Detection            |             |  115 148 190 |
 | Disentangled Representation         |  010 022          | 101 137 164 |
-| Generalization                | 061 062 066 075         | 140 150 176 181 182 189 190 |
+| Generalization                | 061 062 066 075         | 140 150 176 181 182 189 190 195 |
 | Regularization                | 061            | 182  |
 | Active Learning                |             | 119  |
 | Metric/Similarity Learning                |             | 127 139 147 151 171 |
@@ -104,7 +104,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | Counterfactual Inference               | 097            |   |
 | ML Fairness               |                   | 191  |
 | **AutoML**           |                                     |                    |
-| Neural Architecture Search       | 017 063 069            | 105 141 155 166 169 183 187 |
+| Neural Architecture Search       | 017 063 069            | 105 141 155 166 169 183 187 194 |
 | Hyperparameter Optimization      | 080                  |       |
 | Meta-Learning      | 031 094                 | 153 188     |
 | **Applications**           |                                     |                         |
@@ -151,8 +151,8 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 | Title                   | PR-001-to-050 | PR-051-to-100 | PR-101-to-150 | PR-151-to-200 |
 |:------------------------|:--------------|:--------------|:--------------|:--------------|
-| Computer Vision         | **29**        | 13            |  **26**       | **27**        |
-| Machine Learning        | 21            | **20**        |  20           | 17            |
+| Computer Vision         | **29**        | 13            |  **26**       | **28**        |
+| Machine Learning        | 21            | **20**        |  20           | 20            |
 | NLP                     | 5             | 7             |  2            | 3             |
 | Reinforcement Learning  | 3             | 3             |  2            | 0             |
 | Audio/Speech            | 1             | 6             |  1            | 0             |
@@ -164,7 +164,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | Title                   | PR-001-to-050 | PR-051-to-100 | PR-101-to-150 | PR-151-to-200 |
 |:------------------------|:--------------|:--------------|:--------------|:--------------|
 | CVPR                    | **20**        | 7             | **12**        | **14**        |
-| NeurIPS                 | 12            | 7             | 7             | 2             |
+| NeurIPS                 | 12            | 7             | 7             | 5             |
 | ICML                    | 6             | 9             | 4             | 7             |
 | ICLR                    | 9             | **12**        | 7             | 5             |
 | ICCV                    | 1             | 3             | 1             | 3             |
@@ -182,14 +182,14 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | IPMI                    | 0             | 0             | 1             | 0             |
 | BMVC                    | 0             | 0             | 0             | 2             |
 | ACL                     | 0             | 0             | 0             | 1             |
-| Arxiv/Blog/Tech Rpt.    | 5             | 5             | 6             | 6             |
+| Arxiv/Blog/Tech Rpt.    | 5             | 5             | 6             | 7             |
 | Journals                | 3             | 1             | 3             | 4             |
 
 ### by Published Year
 
 | Title                   | PR-001-to-050 | PR-051-to-100 | PR-101-to-150 | PR-151-to-200 |
 |:------------------------|:--------------|:--------------|:--------------|:--------------|
-| 2019                    | 0             | 2             | 11            | **18**        |
+| 2019                    | 0             | 2             | 11            | **22**        |
 | 2018                    | 0             | 18            | **23**        | 15            |
 | 2017                    | **23**        | **20**        | 8             | 9             |
 | 2016                    | 14            | 7             | 5             | 3             |
@@ -1683,7 +1683,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 ## PR-183: MixNet: Mixed Depthwise Convolutional Kernels
 
-- [Paper](https://arxiv.org/abs/1907.09595), Video (Will be Uploaded)
+- [Paper](https://arxiv.org/abs/1907.09595), [Video](https://youtu.be/252YxqpHzsg)
 - _Mingxing Tan and Quoc V. Le, BMVC 2019_
 - Keywords: NAS, Compression, Classification, Detection
 - **Presenter: Jinwon Lee**
@@ -1739,7 +1739,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 ## PR-190: A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks
 
-- [Paper](https://arxiv.org/abs/1610.02136), Video (Will be Uploaded)
+- [Paper](https://arxiv.org/abs/1610.02136), [Video](https://youtu.be/xaABseUoHAI)
 - _Dan Hendrycks and Kevin Gimpel, ICLR 2017_
 - Keywords: Anomaly Detection, Generalization
 - **Presenter: MinGuk Kang**
@@ -1769,13 +1769,37 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 - **Presenter: Taesu Kim**
 - [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
 
-## PR-194: TBD
+## PR-194: Once for All: Train One Network and Specialize it for Efficient Deployment
+
+- [Paper](https://arxiv.org/abs/1908.09791), Video (Will be Uploaded)
+- _Han Cai et al., Arxiv 2019_
+- Keywords: Network Compression, NAS
+- **Presenter: Taekmin Kim**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
 
 ## PR-195: MixMatch: A Holistic Approach to Semi-Supervised Learning
 
-## PR-196: TBD
+- [Paper](https://arxiv.org/abs/1905.02249), [Video](https://youtu.be/ud863JQmUW0)
+- _David Berthelot et al., NeurIPS (NIPS) 2019_
+- Keywords: Semi-supervised Learning, Generalization
+- **Presenter: Jinsung Yoon**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
 
-## PR-197: TBD
+## PR-196: Stand-Alone Self-Attention in Vision Models
+
+- [Paper](https://arxiv.org/abs/1906.05909), Video (Will be Uploaded)
+- _Prajit Ramachandran et al., NeurIPS (NIPS) 2019_
+- Keywords: Attention, Classification, Detection
+- **Presenter: Jiwon Jung**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+## PR-197: One Ticket to Win Them All: Generalizing Lottery Ticket Initialization
+
+- [Paper](https://arxiv.org/abs/1906.02773), [Video](https://youtu.be/YmTNpF2OOjA)
+- _Ari S. Morcos et al., NeurIPS (NIPS) 2019_
+- Keywords: Network Compression
+- **Presenter: Jinwon Lee**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
 
 ## PR-198: TBD
 

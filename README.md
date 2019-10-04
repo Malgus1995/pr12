@@ -9,7 +9,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 - [Video Playlist Season 1 (PR-001 ~ PR-100)](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
 - [Video Playlist Season 2 (PR-101 ~ PR-200)](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
 
-*Last Updated: 2019/09/20*
+*Last Updated: 2019/10/04*
 
 ## Table of Contents
 - [Papers by Topic](https://github.com/taeoh-kim/pr12#papers-by-topic)
@@ -1381,7 +1381,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 ## PR-146: CornerNet: Detecting Objects as Paired Keypoints
 
-- [Paper](https://arxiv.org/abs/1808.01244), Video (Not Available)
+- [Paper](https://arxiv.org/abs/1808.01244), [Video](https://youtu.be/6OYmOtivQY8)
 - _Hei Law and Jia Deng, ECCV 2018_
 - Keywords: Detection
 - **Presenter: Jaewon Lee**
@@ -1699,7 +1699,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 ## PR-185: RetinaFace: Single-stage Dense Face Localisation in the Wild
 
-- [Paper](https://arxiv.org/abs/1905.00641), Video (Will be Uploaded)
+- [Paper](https://arxiv.org/abs/1905.00641), [Video](https://youtu.be/DkcHEnxkXpM)
 - _Jiankang Deng et al., Arxiv 2019_
 - Keywords: Human/Body/Face, Detection
 - **Presenter: Jaewon Lee**

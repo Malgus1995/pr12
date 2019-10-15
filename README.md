@@ -6,10 +6,11 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 수정 및 업데이트 요청: 김태오 (Taeoh Kim), kto@yonsei.ac.kr
 
-- [Video Playlist Season 1 (PR-001 ~ PR-100)](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
-- [Video Playlist Season 2 (PR-101 ~ PR-200)](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
+- [Video Playlist Season 1 (PR-001 ~ PR-100), Apr 2017 ~ Jul 2018](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
+- [Video Playlist Season 2 (PR-101 ~ PR-200), Sep 2018 ~ Oct 2019](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
+- Video Playlist Season 3 (PR-201 ~ PR-300), Oct 2019 ~ : Will be Uploaded
 
-*Last Updated: 2019/10/08*
+*Last Updated: 2019/10/15*
 
 ## Table of Contents
 - [Papers by Topic](https://github.com/taeoh-kim/pr12#papers-by-topic)
@@ -20,11 +21,12 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
   - [PR-051 ~ PR-100](https://github.com/taeoh-kim/pr12#pr-051--pr-100)
   - [PR-101 ~ PR-150](https://github.com/taeoh-kim/pr12#pr-101--pr-150)
   - [PR-151 ~ PR-200](https://github.com/taeoh-kim/pr12#pr-151--pr-200)
+  - [PR-201 ~ PR-250](https://github.com/taeoh-kim/pr12#pr-201--pr-250)
 
 
 ## Papers by Topic
 
-### Up to PR-199
+### Up to PR-200
 
 | Title                           | PR-001-to-100                       | PR-101-to-200                       |
 |:--------------------------------|:------------------------------------|:------------------------------------|
@@ -32,7 +34,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | CNN                       | 002 011 020 028 034 083   | 123 155 163 169 170 177 |
 | RNN                       | 003 014 058 068     |   |
 | Neural Networks           | 043               | 138 174|
-| Network Compression           | 009 026 033 044 054 072 078          | 105 108 111 120 144 156 180 183 184 187 193 194 197 |
+| Network Compression           | 009 026 033 044 054 072 078          | 105 108 111 120 144 156 180 183 184 187 193 194 197 200 |
 | Hardware                  | 085       | 111  |
 | Visualization               | 047 053              |   |
 | Memory Networks               | 006 036              |   |
@@ -46,13 +48,13 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | **Computer Vision**           |                                     |                                     |
 | Classification            | 020 021 026 028 034 044 054 083 090 | 108 119 120 123 156 163 169 170 171 183 196 198 |
 | Detection                 | 002 012 016 023 025 033 044 054 057 084 | 108 110 132 146 157 158 166 172 185 196 198 199 |
-| Segmentation              |  008 045 057 100      | 123 126 141 159 |
+| Segmentation              |  008 045 057 100      | 123 126 141 159 200 |
 | Human/Body/Face                      | 014               | 102 126 127 135 165 171 185 |
 | 3D Single-View        |  098                       |   |
 | 3D Multi-View        |                         | 135  |
 | OCR                                  |               | 158  |
 | Image Restoration         |  004 030           | 107 113 149 151 177 |
-| Video/Motion        |  014                       | 102 104 114 139 192 198 |
+| Video/Motion        |  014                       | 102 104 114 139 192 198 200 |
 | Style Transfer            | 007               | 122 131 149 186 |
 | Image Translation         | 065 073           | 102 104 114 152 154 165 168 179 |
 | Relational Reasoning                | 018 095              |   |
@@ -126,24 +128,31 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 - [Dongjun Jung](https://www.youtube.com/channel/UC19Ia6oXpWMCfxgDv0tx_oQ): Season 1
 - [Young Jae Choung](https://www.youtube.com/channel/UCjiE8ahJHhc0944xYTRHwsQ): Season 1
 - [Junbum Cha](https://www.youtube.com/channel/UCjCuD2gwcX4WWK4LhhoXsXw): Season 1
-- [Jiyang Kang](https://www.youtube.com/channel/UCh5oA2rwhVHLjwTDWc--MoQ): Season 1
-- [Jinwon Lee](https://www.youtube.com/channel/UCaJFuqpYqxWuQl9TZky0njA): Season 1, 2
+- [Jiyang Kang](https://www.youtube.com/channel/UCh5oA2rwhVHLjwTDWc--MoQ): Season 1, 3
+- [Jinwon Lee](https://www.youtube.com/channel/UCaJFuqpYqxWuQl9TZky0njA): Season 1, 2, 3
 - [Ji-Hoon Kim](https://www.youtube.com/channel/UCMYklhhWWoMKZ9RTq-dhkbg): Season 1
 - [KwangHee Lee](https://www.youtube.com/channel/UCZnf5LQdOq0J2M1ZbQq2XCg): Season 1
 - [Taesu Kim](https://www.youtube.com/channel/UCeHES5JYW_noobUUwI9S1Hw): Season 1, 2
-- [Taeoh Kim](https://www.youtube.com/channel/UCtfvbtV82UDr-vHnj5sPeGQ): Season 1, 2
-- [Byung-Hak Kim](https://www.youtube.com/channel/UCl2Y6qJzu6JzbmmKWwaKhjw): Season 1, 2
+- [Taeoh Kim](https://www.youtube.com/channel/UCtfvbtV82UDr-vHnj5sPeGQ): Season 1, 2, 3
+- [Byung-Hak Kim](https://www.youtube.com/channel/UCl2Y6qJzu6JzbmmKWwaKhjw): Season 1, 2, 3
 - [MinGuk Kang](https://www.youtube.com/channel/UCMiSEXsuX5GU4MM_0hUgAGg): Season 2
 - [Taekmin Kim](https://www.youtube.com/channel/UCR44Za4LI28yblGNYzUFmvg): Season 2
 - [Jinsung Yoon](https://www.youtube.com/channel/UCR9RxRIef7kuYwfe6GwCsdA): Season 2
 - [Jiwon Jung](https://www.youtube.com/channel/UCmlcTkgqkp_UeYwL0dEkXhQ): Season 2
-- [Young Seok Kim](https://www.youtube.com/channel/UCoWRhlP6qQs4CijevfWqvig): Season 2
+- [Young Seok Kim](https://www.youtube.com/channel/UCoWRhlP6qQs4CijevfWqvig): Season 2, 3
 - [Jaewon Lee](https://www.youtube.com/channel/UCaMocgxYJ0oWvfRqYQHK0yQ): Season 2
 - [Soyeon Kim](https://www.youtube.com/channel/UC_84QQ7TgkHuBbqb8kYFZXg): Season 2
 - [Jae Duk Seo](https://www.youtube.com/channel/UCf5jue1EwgWrYw9bjTynV4g): Season 2
-- [Sunghoon Joo](https://www.youtube.com/channel/UCrcRz2PZ0akJ4IoYCYgwlEg): Season 2
-- [Doyup Lee](https://www.youtube.com/channel/UCWrG7MPkGR4BMhYOuDIXpcg): Season 2
-- [Sungnam Park](https://www.youtube.com/channel/UCWDE4MKQk8CsRy2vM0S0dOg): Season 2
+- [Sunghoon Joo](https://www.youtube.com/channel/UCrcRz2PZ0akJ4IoYCYgwlEg): Season 2, 3
+- [Doyup Lee](https://www.youtube.com/channel/UCWrG7MPkGR4BMhYOuDIXpcg): Season 2, 3
+- [Sungnam Park](https://www.youtube.com/channel/UCWDE4MKQk8CsRy2vM0S0dOg): Season 2, 3
+- Seongok Ryu: Season 3
+- Kyeongseon Kim: Season 3
+- Hoseong Lee: Season 3
+- Kyunghoon Jung: Season 3
+- Changhoon Jeong: Season 3
+- Hyeongmin Lee: Season 3
+
 
 ## Paper Statistics
 
@@ -151,7 +160,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 | Title                   | PR-001-to-050 | PR-051-to-100 | PR-101-to-150 | PR-151-to-200 |
 |:------------------------|:--------------|:--------------|:--------------|:--------------|
-| Computer Vision         | **29**        | 13            |  **26**       | **30**        |
+| Computer Vision         | **29**        | 13            |  **26**       | **31**        |
 | Machine Learning        | 21            | **20**        |  20           | 20            |
 | NLP                     | 5             | 7             |  2            | 3             |
 | Reinforcement Learning  | 3             | 3             |  2            | 0             |
@@ -167,7 +176,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 | NeurIPS                 | 12            | 7             | 7             | 6             |
 | ICML                    | 6             | 9             | 4             | 7             |
 | ICLR                    | 9             | **12**        | 7             | 5             |
-| ICCV                    | 1             | 3             | 1             | 4             |
+| ICCV                    | 1             | 3             | 1             | 5             |
 | ECCV                    | 0             | 0             | 7             | 2             |
 | EMNLP                   | 3             | 0             | 0             | 0             |
 | AAAI                    | 1             | 1             | 1             | 1             |
@@ -189,7 +198,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 | Title                   | PR-001-to-050 | PR-051-to-100 | PR-101-to-150 | PR-151-to-200 |
 |:------------------------|:--------------|:--------------|:--------------|:--------------|
-| 2019                    | 0             | 2             | 11            | **24**        |
+| 2019                    | 0             | 2             | 11            | **25**        |
 | 2018                    | 0             | 18            | **23**        | 15            |
 | 2017                    | **23**        | **20**        | 8             | 9             |
 | 2016                    | 14            | 7             | 5             | 3             |
@@ -1787,7 +1796,7 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 ## PR-196: Stand-Alone Self-Attention in Vision Models
 
-- [Paper](https://arxiv.org/abs/1906.05909), Video (Will be Uploaded)
+- [Paper](https://arxiv.org/abs/1906.05909), [Video](https://youtu.be/6hadVw4Sy2M)
 - _Prajit Ramachandran et al., NeurIPS (NIPS) 2019_
 - Keywords: Attention, Classification, Detection
 - **Presenter: Jiwon Jung**
@@ -1817,4 +1826,22 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 - **Presenter: Jaewon Lee**
 - [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
 
-## PR-200: TBD
+## PR-200: Online Model Distillation for Efficient Video Inference
+
+- [Paper](https://arxiv.org/abs/1812.02699), [Video](https://youtu.be/BHEncY-f548)
+- _Ravi Teja Mullapudi et al., ICCV 2019_
+- Keywords: Video/Motion, Compression, Segmentation
+- **Presenter: Soyeon Kim**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+## PR-201 ~ PR-250
+
+## PR-200: TBD (20th, Oct, 2019)
+
+- **Presenter: Jiyang Kang**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+## PR-201: TBD (20th, Oct, 2019)
+
+- **Presenter: Sungnam Park**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]

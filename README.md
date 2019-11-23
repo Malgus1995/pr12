@@ -8,9 +8,9 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 - [Video Playlist Season 1 (PR-001 ~ PR-100), Apr 2017 ~ Jul 2018](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
 - [Video Playlist Season 2 (PR-101 ~ PR-200), Sep 2018 ~ Oct 2019](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
-- Video Playlist Season 3 (PR-201 ~ PR-300), Oct 2019 ~ : Will be Uploaded
+- [Video Playlist Season 3 (PR-201 ~ PR-300), Oct 2019 ~ ](https://www.youtube.com/watch?v=D-baIgejA4M&list=PL_skMddDjnzq1wDI3t2cH9hlK6wBBapeA)
 
-*Last Updated: 2019/10/15*
+*Last Updated: 2019/11/23*
 
 ## Table of Contents
 - [Papers by Topic](https://github.com/taeoh-kim/pr12#papers-by-topic)
@@ -146,9 +146,9 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 - [Sunghoon Joo](https://www.youtube.com/channel/UCrcRz2PZ0akJ4IoYCYgwlEg): Season 2, 3
 - [Doyup Lee](https://www.youtube.com/channel/UCWrG7MPkGR4BMhYOuDIXpcg): Season 2, 3
 - [Sungnam Park](https://www.youtube.com/channel/UCWDE4MKQk8CsRy2vM0S0dOg): Season 2, 3
-- Seongok Ryu: Season 3
+- [Seongok Ryu](https://www.youtube.com/channel/UCV5j_Tej_HwMeMN7ZIxtlsA): Season 3
 - Kyeongseon Kim: Season 3
-- Hoseong Lee: Season 3
+- [Hoseong Lee](https://www.youtube.com/channel/UC0XOqIsXcLXtIHbb3Qfp68w): Season 3
 - Kyunghoon Jung: Season 3
 - Changhoon Jeong: Season 3
 - Hyeongmin Lee: Season 3
@@ -1836,12 +1836,84 @@ A Documentation of PR12 Deep Learning Paper Presentation Group on YouTube from T
 
 ## PR-201 ~ PR-250
 
-## PR-200: TBD (20th, Oct, 2019)
+## PR-201: Bag of Tricks for Image Classification with Convolutional Neural Networks
 
+- [Paper](https://arxiv.org/abs/1812.01187), [Video](https://youtu.be/D-baIgejA4M)
+- _Tong He et al., CVPR 2019_
+- Keywords: Classification
 - **Presenter: Jiyang Kang**
 - [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
 
-## PR-201: TBD (20th, Oct, 2019)
 
+## PR-202: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts
+
+- [Paper](https://www.kdd.org/kdd2018/accepted-papers/view/modeling-task-relationships-in-multi-task-learning-with-multi-gate-mixture-), [Video](https://youtu.be/iR7T3lH20gI)
+- _Jiaqi Ma et al., KDD 2018_
+- Keywords: Recommender System
 - **Presenter: Sungnam Park**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+
+
+## PR-203: Class-Balanced Loss Based on Effective Number of Samples
+
+- [Paper](https://arxiv.org/abs/1901.05555), [Video](https://youtu.be/3hL0uVtJrXM)
+- _Yin Cui et al., CVPR 2019_
+- Keywords: Imbalanced Data
+- **Presenter: Sunghoon Joo**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+
+
+## PR-204: Learning Deep Representations by Mutual Information Estimation and Maximization
+
+- [Paper](https://arxiv.org/abs/1808.06670), [Video](https://youtu.be/YNicvevmByo)
+- _R Devon Hjelm et al., ICLR 2019_
+- Keywords: Self-supervised Learning
+- **Presenter: Seongok Ryu**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+
+
+## PR-205: A Closer Look at Few-shot Classification
+
+- [Paper](https://arxiv.org/abs/1904.04232), [Video](https://youtu.be/yyqZ1K5u2_8)
+- _Wei-Yu Chen et al., ICLR 2019_
+- Keywords: Few-shot Learning
+- **Presenter: Taeoh Kim**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+
+
+## PR-206: PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud
+
+- [Paper](https://arxiv.org/abs/1812.04244), [Video](https://youtu.be/sFN_EgCsNzM)
+- _Shaoshuai Shi et al., CVPR 2019_
+- Keywords: 3D Multi-view, 3D Detection
+- **Presenter: Doyeop Lee**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+
+
+## PR-207: YOLOv3: An Incremental Improvement
+
+- [Paper](https://arxiv.org/abs/1804.02767), [Video](https://youtu.be/HMgcvgRrDcA)
+- _Joseph Redmon and Ali Farhadi, Arxiv 2018_
+- Keywords: Detection
+- **Presenter: Jinwon Lee**
+- [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
+
+
+
+## PR-208: Unsupervised Visual Representation Learning Overview: Toward Self-Supervision
+
+- [Paper1](https://arxiv.org/abs/1406.6909), [Paper2](https://arxiv.org/abs/1505.05192), [Paper3](https://arxiv.org/abs/1603.09246), [Paper4](https://arxiv.org/abs/1708.06734), [Paper5](https://arxiv.org/abs/1708.07860), [Paper6](https://arxiv.org/abs/1803.07728), [Video](https://youtu.be/eDDHsbMgOJQ)
+- _Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks by Alexey Dosovitskiy at al. NIPS 2014_
+- _Unsupervised Visual Representation Learning by Context Prediction by Carl Doersch at al. ICCV 2015_
+- _Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles by Mehdi Noroozi and Paolo Favaro. ECCV 2016_
+- _Representation Learning by Learning to Count by Mehdi Noroozi et al. ICCV 2017_
+- _Multi-task Self-supervised Visual Learning by Carl Doersch and Andrew Zisserman, ICCV 2017_
+- _Unsupervised Representation Learning by Predicting Image Rotations by Spyros Gidaris et al. ICLR 2018_
+- Keywords: Self-supervised Learning
+- **Presenter: Hoseong Lee**
 - [[Top](https://github.com/taeoh-kim/pr12#table-of-contents)]
